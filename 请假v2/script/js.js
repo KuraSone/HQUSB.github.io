@@ -3,10 +3,10 @@ let date = new Date()
 let td = new Date()
 //开始时间，当前时间前30min
 td.setMinutes(date.getMinutes() - 30)
-$id('kssj2').innerHTML = `${zero(td.getMonth())}-${zero(td.getDay())} ${zero(td.getHours())}:${zero(td.getMinutes())}`
+$id('kssj2').innerHTML = `${zero(td.getMonth()+1)}-${zero(td.getDay()-1)} ${zero(td.getHours())}:${zero(td.getMinutes())}`
 //结束时间，当前时间后2个小时
 td.setHours(date.getHours() + 2)
-$id('jssj2').innerHTML = `${zero(td.getMonth())}-${zero(td.getDay())} ${zero(td.getHours())}:${zero(td.getMinutes())}`
+$id('jssj2').innerHTML = `${zero(td.getMonth()+1)}-${zero(td.getDay()-1)} ${zero(td.getHours())}:${zero(td.getMinutes())}`
 
 //发起申请的时间,2小时38分钟之前
 td.setHours(date.getHours() - 2)
