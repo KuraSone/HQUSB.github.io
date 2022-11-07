@@ -3,7 +3,7 @@ let date = new Date()
 let td = new Date()
 //开始时间，当前时间前30min
 td.setMinutes(date.getMinutes() - 30)
-$id('kssj2').innerHTML = `${zero(td.getMonth()+1)}-${zero(td.getDay()-1)} ${zero(td.getHours())}:${zero(td.getMinutes())}`
+$id('kssj2').innerHTML = `${zero(td.getMonth()+1)}-${zero(td.getDate())} ${zero(td.getHours())}:${zero(td.getMinutes())}`
 //结束时间，当前时间后2个小时
 td.setHours(date.getHours() + 1)
 $id('jssj2').innerHTML = `${zero(td.getMonth()+1)}-${zero(td.getDay()-1)} ${zero(td.getHours())}:${zero(td.getMinutes())}`
