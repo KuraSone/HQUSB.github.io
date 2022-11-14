@@ -6,6 +6,7 @@ body{
 #top{
     margin-top: 15px;
     margin-bottom: 10px;
+    height: 50px;
 }
 #qjxx{  /*请假信息*/
     color: rgba(61,153,247,0.9);
