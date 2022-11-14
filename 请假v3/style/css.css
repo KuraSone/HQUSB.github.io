@@ -8,7 +8,7 @@ body{   /*全局*/
 #top{   /*顶部标题*/ 
     position: fixed;
     padding-top: 14px;
-    height: 34px;
+    height: 36px;
     background-color: white;
     margin-left: -8px;
     margin-top: -8px;
@@ -40,6 +40,7 @@ body{   /*全局*/
     width: 104%;
 }
 #xiaolian{   /*笑脸*/
+    padding-top: 100px;
     width: 60px;
     height: 60px;
 }
