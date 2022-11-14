@@ -126,7 +126,7 @@ body{
 }
 .sffx{  /*是否返校*/
     position: absolute;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 #kssj{  /*开始时间*/
     position: absolute;
@@ -149,25 +149,26 @@ body{
     margin-top: 60px;
     font-weight: bolder;
 }
-.splc{  /*审批流程*/
-    position: absolute;
-    margin-top: 70px;
-}
-.qjyy{  /*请假原因*/
-    position: absolute;
-    margin-top: 90px;
-}
 .cfd{  /*出发地*/
     position: absolute;
-    margin-top: 90px;
+    margin-top: 75px;
 }
 .czjtgj{  /*乘坐交通工具*/
     position: absolute;
     margin-top: 90px;
 }
-.fqwz{  /*发起位置*/
+.splc{  /*审批流程*/
     position: absolute;
     margin-top: 110px;
+}
+.qjyy{  /*请假原因*/
+    position: absolute;
+    margin-top: 130px;
+}
+
+.fqwz{  /*发起位置*/
+    position: absolute;
+    margin-top: 150px;
 }
 #wz{  /*位置*/ 
     color: rgba(61,153,247,0.9);
