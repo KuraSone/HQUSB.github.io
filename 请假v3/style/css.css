@@ -81,6 +81,9 @@ body{   /*全局*/
 .left_len4{
     left: 90px;
 }
+.left_len8{
+    left: 180px;
+}
 .sffx{
     margin-top: 40px;
 }
