@@ -58,6 +58,9 @@ body{   /*全局*/
     width: 104%;
     height: 270px;
 }
+.left_len{  /*距离左边的距离*/
+    left: 22px;
+}
 .title{     /*返校详情、审批流程记录*/
     font-weight: bold;
     font-size: 14px;
