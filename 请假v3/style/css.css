@@ -47,4 +47,5 @@ body{   /*全局*/
 #sq{   /*申请已批准*/
     font-weight: bold;
     font-size: 14px;
+    padding-top: 10px;
 }
