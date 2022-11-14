@@ -82,6 +82,9 @@ body{   /*全局*/
 .left_len8{
     left: 142px;
 }
+.left_len15{
+    left: 233px;
+}
 .abs{    /*绝对定位*/
     position: absolute;
 }
