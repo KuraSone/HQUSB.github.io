@@ -126,27 +126,27 @@ body{
 }
 .sffx{  /*是否返校*/
     position: absolute;
-    margin-top: 5px;
+    margin-top: 30px;
 }
 #kssj{  /*开始时间*/
     position: absolute;
-    margin-top: 30px;
+    margin-top: 45px;
 }
 .left_len2{
-    left: 90px;
+    left: 140px;
 }
 #kssj2{   /*开始时间*/
     position: absolute;
-    margin-top: 30px;
+    margin-top: 45px;
     font-weight: bolder;
 }
 #jssj{  /*结束时间*/
     position: absolute;
-    margin-top: 50px;
+    margin-top: 60px;
 }
 #jssj2{   /*结束时间*/
     position: absolute;
-    margin-top: 50px;
+    margin-top: 60px;
     font-weight: bolder;
 }
 .splc{  /*审批流程*/
