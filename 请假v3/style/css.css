@@ -140,3 +140,16 @@ body{   /*全局*/
     margin-top: 14px;
     height: 160px;
 }
+#fqsj{  /*发起时间*/
+    margin-top: 40px;
+    right: 20px;
+}   
+#spsj{  /*审批时间 */
+    margin-top: 78px;
+    right: 20px;
+}
+.quan{  /*圆圈*/
+    width: 19px;
+    height: 19px;
+    vertical-align:middle;
+}
