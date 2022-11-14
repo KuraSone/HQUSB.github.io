@@ -119,6 +119,10 @@ body{
     font-weight: bold;
     font-size: 14px;
 }
+.sffx{  /*是否返校*/
+    position: absolute;
+    margin-top: 20px;
+}
 #kssj{  /*开始时间*/
     position: absolute;
     margin-top: 30px;
@@ -145,10 +149,6 @@ body{
     margin-top: 70px;
 }
 .qjyy{  /*请假原因*/
-    position: absolute;
-    margin-top: 90px;
-}
-.sffx{  /*是否返校*/
     position: absolute;
     margin-top: 90px;
 }
