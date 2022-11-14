@@ -5,3 +5,14 @@ body{   /*全局*/
     background-color: rgba(240,245,247,1);
     height: 805px;
 }
+#top{   /*顶部标题*/ 
+    position: fixed;
+    padding-top: 14px;
+    height: 32px;
+    background-color: white;
+    margin-left: -8px;
+    margin-top: -8px;
+    z-index: 1; /*置于最顶层*/
+    width: 100%;
+    font-size: 15px;
+}
