@@ -76,7 +76,7 @@ body{   /*全局*/
     padding-top: 14px;
 }
 .left_len2{
-    float:left;
+    left: 300px;
 }
 .sffx{
     margin-top: 40px;
