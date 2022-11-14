@@ -57,3 +57,8 @@ body{   /*全局*/
     width: 104%;
     height: 270px;
 }
+.title{     /*返校详情、审批流程记录*/
+    font-weight: bold;
+    font-size: 14px;
+    padding-top: 8px;
+}
