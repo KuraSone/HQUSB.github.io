@@ -37,4 +37,5 @@ body{   /*全局*/
 #two{   /*笑脸*/
     background-color: white;
     height: 170px;
+    width: 104%;
 }
