@@ -66,7 +66,7 @@ body{   /*全局*/
 }
 .lab{   /*说明文字*/
     color: rgba(170,170,170,1);
-    font-size: 12.5px;
+    font-size: 13px;
 }
 .ck{    /*查看*/
     color: rgba(61,153,247,0.9);
