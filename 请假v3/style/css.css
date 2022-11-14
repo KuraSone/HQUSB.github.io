@@ -61,6 +61,27 @@ body{   /*全局*/
 .left_len{  /*距离左边的距离*/
     left: 22px;
 }
+.left_len2{
+    left: 300px;
+}
+.left_len3{
+    left: 77px;
+}
+.left_len4{
+    left: 90px;
+}
+.left_len5{
+    left: 103px;
+}
+.left_len6{
+    left: 116px;
+}
+.left_len7{
+    left: 129px;
+}
+.left_len8{
+    left: 142px;
+}
 .abs{    /*绝对定位*/
     position: absolute;
 }
@@ -74,15 +95,6 @@ body{   /*全局*/
 .title{     /*返校详情、审批流程记录*/
     font-size: 15px;
     padding-top: 14px;
-}
-.left_len2{
-    left: 300px;
-}
-.left_len4{
-    left: 90px;
-}
-.left_len8{
-    left: 180px;
 }
 .sffx{
     margin-top: 40px;
