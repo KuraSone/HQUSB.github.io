@@ -32,15 +32,6 @@ body{
     color: white;
     font-size: 12px;
 }
-#wenhao{    /*问号*/
-    padding-top: 4px;
-    width: 12px;
-    height: 12px;
-}
-#rhxj{  /*如何销假？*/
-    vertical-align:top;
-    margin-top: 2px;
-}
 #three{
     background-color: rgba(16,212,98,1);
     background: -webkit-linear-gradient(top, rgb(12, 166, 79), rgba(19,235,110,1));
@@ -56,42 +47,6 @@ body{
     width: 16px;
     height: 16px;
     vertical-align:middle;
-}
-#sp{    /*审批已通过*/
-    letter-spacing: 2px;
-}
-#zzxjz{ /*正在休假中*/
-    color: white;
-    font-size: 30px;
-    letter-spacing: 4px;
-}
-#move{  /*移动*/
-    position: absolute;
-    background-color: red;
-    height: 20px;
-}
-.pxsbx{     /*平行四边形*/
-    width: 40px;
-    height: 23px;
-    padding-left: 7px;
-}
-#grxx{  /*个人信息*/
-    /* background-color: red; */
-    position: absolute;
-    right: 15px;
-    top: 75px;
-    font-size: 14px;
-}
-#four{  /*当前时间*/
-    position: relative;
-    background-color: rgba(125,128,125,0.7);
-    color: white;
-    border-radius: 8px;
-    width: 180px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: -31px;
-    font-size: 11px;
 }
 #five{
     padding-top: 10px;
