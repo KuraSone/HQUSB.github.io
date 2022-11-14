@@ -71,8 +71,7 @@ body{   /*全局*/
     color: rgba(61,153,247,0.9);
 }
 .title{     /*返校详情、审批流程记录*/
-    font-weight: bold;
-    font-size: 14px;
+    font-size: 15px;
     padding-top: 14px;
 }
 .left_len2{
