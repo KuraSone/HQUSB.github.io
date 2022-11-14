@@ -121,7 +121,7 @@ body{
 }
 .sffx{  /*是否返校*/
     position: absolute;
-    margin-top: 20px;
+    margin-top: 5px;
 }
 #kssj{  /*开始时间*/
     position: absolute;
