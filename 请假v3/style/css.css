@@ -35,6 +35,6 @@ body{   /*全局*/
     padding-bottom: 8px;    /*下划线距离*/
 }
 #two{   /*笑脸*/
-    background-color: black;
-    height: 150px;
+    background-color: white;
+    height: 250px;
 }
