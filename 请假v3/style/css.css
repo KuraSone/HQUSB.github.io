@@ -1,0 +1,7 @@
+body{   /*全局*/
+    text-align: center;
+    color: rgba(114,117,130,1);
+    font-size: 14px;
+    background-color: rgba(240,245,247,1);
+    height: 805px;
+}
