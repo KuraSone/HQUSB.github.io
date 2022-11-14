@@ -37,3 +37,13 @@ body{   /*全局*/
 .left_len{  /*距离左边的距离*/
     left: 22px;
 }
+#xiaolian{   /*笑脸*/ 
+    position: fixed;
+    padding-top: 14px;
+    height: 32px;
+    background-color: white;
+    margin-left: -8px;
+    margin-top: -8px;
+    width: 100%;
+    font-size: 15px;
+}
