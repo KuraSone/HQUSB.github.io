@@ -48,7 +48,7 @@ body{   /*全局*/
     font-weight: bold;
     font-size: 14px;
     width: 50px;
-    verticle-align:middle；
+    text-aligin:center;
 }
 #seven{
     margin-top: 14px;
