@@ -95,12 +95,12 @@ body{   /*全局*/
 .ck{    /*查看*/
     color: rgba(61,153,247,0.9);
 }
-.title{     /*返校详情、审批流程记录*/
-    font-size: 15px;
-    padding-top: 14px;
+.title{     /*返校申请详情、审批流程记录*/
+    font-size: 18px;
+    padding-top: 20px;
 }
 .sffx{
-    margin-top: 40px;
+    margin-top: 50px;
 }
 #yjfxcfsj{
     margin-top: 60px;
