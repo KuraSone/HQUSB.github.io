@@ -73,8 +73,35 @@ body{   /*全局*/
 .title{     /*返校详情、审批流程记录*/
     font-weight: bold;
     font-size: 14px;
-    padding-top: 8px;
+    padding-top: 14px;
 }
 .left_len2{
     left: 90px;
+}
+.sffx{
+    margin-top: 40px;
+}
+.yjfxcfsj{
+    margin-top: 60px;
+}
+.yjfxddsj{
+    margin-top: 80px;
+}
+.cfd{
+    margin-top: 100px;
+}
+.czjtgj{
+    margin-top: 120px;
+}
+.czjtgjdhccchhbh{
+    margin-top: 140px;
+}
+.sqyy{
+    margin-top: 160px;
+}
+.fqwz{
+    margin-top: 180px;
+}
+.splc{
+    margin-top: 200px;
 }
