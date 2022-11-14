@@ -60,6 +60,7 @@ body{   /*全局*/
 }
 .left_len{  /*距离左边的距离*/
     left: 22px;
+    width: auto;
 }
 .abs{    /*绝对定位*/
     position: absolute;
@@ -77,6 +78,7 @@ body{   /*全局*/
 }
 .left_len2{
     float: left;
+    width: auto;
 }
 .sffx{
     margin-top: 40px;
