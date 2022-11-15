@@ -141,17 +141,17 @@ body{   /*全局*/
     height: 160px;
 }
 #fqr{   /*发起人*/
-    margin-top: 40px;
+    margin-top: 60px;
 }
 #spr{   /*审批人*/
-    margin-top: 78px;
+    margin-top: 98px;
 }
 #fqsj{  /*发起时间*/
-    margin-top: 40px;
+    margin-top: 60px;
     right: 20px;
 }   
 #spsj{  /*审批时间 */
-    margin-top: 78px;
+    margin-top: 98px;
     right: 20px;
 }
 .quan{  /*圆圈*/
