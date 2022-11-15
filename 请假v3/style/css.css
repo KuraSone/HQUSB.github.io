@@ -179,8 +179,8 @@ body{   /*全局*/
 }
 table{
     position:fixed;
-    background-color: white;
-    border: 1px solid rgba(100, 100, 100, 0.3);
+    background-color: rgb(51, 153, 254);
+    color: white;
     height: 50px;
     bottom: 0px;
     border-collapse: collapse;
