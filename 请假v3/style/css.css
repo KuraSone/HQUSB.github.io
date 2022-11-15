@@ -177,3 +177,13 @@ body{   /*全局*/
     border-radius: 4px;
     color: rgba(170,170,170,1);
 }
+table{
+    position:fixed;
+    background-color: white;
+    border: 1px solid rgba(100, 100, 100, 0.3);
+    height: 50px;
+    bottom: 0px;
+    border-collapse: collapse;
+    margin-left: -8px;
+    width: 100%;
+}
