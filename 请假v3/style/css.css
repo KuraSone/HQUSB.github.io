@@ -38,6 +38,7 @@ body{   /*全局*/
     background-color: white;
     height: 190px;
     width: 104%;
+    margin-left: -8px;
 }
 #xiaolian{   /*笑脸*/
     padding-top: 60px;
